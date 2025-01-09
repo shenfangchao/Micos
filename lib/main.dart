@@ -1,30 +1,30 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
-import 'package:micos/appstate.dart';
-import 'package:micos/router.dart';
+import 'package:micos/xcbhgyuwegrhbgdhjkdjg.dart';
+import 'package:micos/dsfjhkgvhegwruyschgdr.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  final vchgxuyguyewgjhsdvhjdasf = FFAppState();
+  final vchgxuyguyewgjhsdvhjdasf = VqweghvhjvjGvhgavsufvhg();
   await vchgxuyguyewgjhsdvhjdasf.initializePersistedState();
 
   runApp(ChangeNotifierProvider(
     create: (context) => vchgxuyguyewgjhsdvhjdasf,
-    child: const MyApp(),
+    child: const Huygywqzxbjnvbbqv(),
   ));
 }
 
-class MyApp extends StatefulWidget {
-  const MyApp({super.key});
+class Huygywqzxbjnvbbqv extends StatefulWidget {
+  const Huygywqzxbjnvbbqv({super.key});
 
   // This widget is the root of your application.
   @override
-  State<MyApp> createState() => _MyApp();
+  State<Huygywqzxbjnvbbqv> createState() => _Huygywqzxbjnvbbqv();
 }
 
-class _MyApp extends State<MyApp> {
+class _Huygywqzxbjnvbbqv extends State<Huygywqzxbjnvbbqv> {
   late final GoRouter _hejfgwhjfvsjhvcghxvghfasdf = Hghuagyuefytwqefrtydsvgsadew().chxvuigyuqgweyugvfsad;
 
   @override
