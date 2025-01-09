@@ -34,7 +34,7 @@ class Hghuagyuefytwqefrtydsvgsadew {
       GoRoute(
         path: '/',
         name: 'xghhuagshegr',
-        builder: (context, state) => const Axchgyhgyuqwewqr(),
+        builder: (context, state) => const Ibshuagdfyusfegfcghsa(),
       ),
       // 初始页
       GoRoute(

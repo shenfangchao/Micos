@@ -29,24 +29,7 @@ class VqweghvhjvjGvhgavsufvhg extends ChangeNotifier {
   // }
 
   /// 登录用户
-  Uahjghjavzdhjvchg xmcvklhjdjkrhjktg = Uahjghjavzdhjvchg(
-    idshgdhxcvgasd: 0,
-    nakfsdohgiuhjxcfgds: 'Celeste',
-    emsiugcuhghjdgsgadf: '123@gmail.com',
-    psdgweyfvghsvxcasdf: '123456',
-    cjvkbhjkhjrhewjew: 'assets/hsdjkfhjwegfrsadsadf/Celesteahsjdfhjwe.png',
-    agedshajgdfhjshdfjs: 98,
-    uysagyueghsvh: 5000,
-    ewutgsgdhjghfjsa: '289415',
-    jiehsohsdghxcjgdff:
-        'I was once a young and ambitious knight, sworn to protect the realm. But during a fierce battle against an ancient evil, I was fatally wounded. In my dying moments, a vampire lord took pity on me and offered me immortality. Now, I struggle between my old chivalrous values and the newfound bloodlust that consumes me. I roam the night, seeking redemption while being drawn to the allure of human blood.',
-    jueskijseguhisgdhjsd: 'https://huanniuchat.oss-accelerate-overseas.aliyuncs.com/micos/erghdbfhsjbhkqde/xixuegshgjxghgasef%403x.png',
-    xhughugrvehgdvf: 'https://huanniuchat.oss-accelerate-overseas.aliyuncs.com/micos/erghdbfhsjbhkqde/xixueg2sdfuhgshdas%403x.png',
-    sahdxchjvghfehsjrret: [1, 2],
-    xcbhvebhurgertdf: [],
-    asgdfhgshjvcweqsad: [1, 2],
-    hurehbghjdhjxhgv: 'Newborn Vampire',
-  );
+  Uahjghjavzdhjvchg xmcvklhjdjkrhjktg = Uahjghjavzdhjvchg();
 
   /// 用户表
   List<Uahjghjavzdhjvchg> ewrhfjkdshvjkhsd = [
