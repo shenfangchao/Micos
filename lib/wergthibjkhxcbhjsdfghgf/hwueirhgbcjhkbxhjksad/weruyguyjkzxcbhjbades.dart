@@ -47,7 +47,7 @@ class _AxchgyhgyuqwewqrState extends State<Axchgyhgyuqwewqr> {
                     child: Row(
                       children: [
                         GradientText(
-                          'Micos',
+                          'Luvic',
                           style: const TextStyle(
                             fontFamily: 'reytudjfkaksc',
                             fontSize: 38,

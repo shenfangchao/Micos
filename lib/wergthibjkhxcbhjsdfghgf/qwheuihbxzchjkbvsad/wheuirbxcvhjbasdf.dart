@@ -38,7 +38,7 @@ class _CeqgryuvbsdajhvbqweState extends State<Ceqgryuvbsdajhvbqwe> {
                         const Padding(
                           padding: EdgeInsets.fromLTRB(0, 13, 0, 7),
                           child: Text(
-                            'Micos',
+                            'Luvic',
                             style: TextStyle(
                               fontFamily: "uwqegrubhjwqe",
                               fontSize: 34,

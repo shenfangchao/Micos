@@ -88,7 +88,7 @@ class _IbshuagdfyusfegfcghsaState extends State<Ibshuagdfyusfegfcghsa> {
                       Padding(
                         padding: const EdgeInsets.fromLTRB(0, 0, 0, 58),
                         child: GradientText(
-                          'Micos',
+                          'Luvic',
                           style: const TextStyle(
                             fontFamily: 'reytudjfkaksc',
                             fontWeight: FontWeight.w700,

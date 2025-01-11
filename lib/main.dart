@@ -33,7 +33,7 @@ class _Huygywqzxbjnvbbqv extends State<Huygywqzxbjnvbbqv> {
       DeviceOrientation.portraitUp,
     ]);
     return MaterialApp.router(
-      title: 'Micos',
+      title: 'Luvic',
       routerConfig: _hejfgwhjfvsjhvcghxvghfasdf,
     );
   }
